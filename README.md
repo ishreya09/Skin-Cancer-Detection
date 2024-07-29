@@ -13,22 +13,6 @@ Dataset link - https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs
 
 ## Model Architecture
 
-Certainly! Here's a structured project description for your skin cancer detection project:
-
----
-
-## Project Description: Skin Cancer Detection
-
-### Overview
-
-Skin cancer is one of the most common types of cancer, and early detection significantly improves treatment outcomes. This project aims to develop a machine learning model to classify skin moles as either benign or malignant using images. By leveraging a balanced dataset of skin moles, the goal is to create a reliable and efficient tool to assist healthcare professionals in diagnosing skin cancer.
-
-### Dataset
-
-The dataset used for this project is sourced from Kaggle and consists of images of benign and malignant skin moles. The dataset is balanced, containing an equal number of benign and malignant samples. You can access the dataset [here](https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign/data).
-
-### Methodology
-
 ![alt text](image-8.png)
 
 1. **Data Preprocessing**:
