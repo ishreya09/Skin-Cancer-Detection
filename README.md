@@ -29,7 +29,7 @@ The dataset used for this project is sourced from Kaggle and consists of images 
 
 ### Methodology
 
-![alt text](image-1.png)
+![alt text](image-8.png)
 
 1. **Data Preprocessing**:
    - Images were resized to a standard dimension of 224x224 pixels.
