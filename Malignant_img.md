@@ -1,4 +1,4 @@
-## Explainable AI for Benign images
+## Explainable AI for Malignant images
 
 Original Image
 
