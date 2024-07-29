@@ -13,7 +13,7 @@ Dataset link - https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs
 
 ## Model Architecture
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 1. **Data Preprocessing**:
    - Images were resized to a standard dimension of 224x224 pixels.
@@ -43,7 +43,7 @@ Test Loss: 3.522998094558716
 Test Accuracy: 0.8181818127632141
 Test AUC: 0.8906390070915222
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 The model demonstrates strong performance in distinguishing between benign and malignant skin moles, with a high AUC indicating effective classification capability. The accuracy on the test set reflects the model’s generalization ability.
 
