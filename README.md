@@ -67,3 +67,12 @@ The model demonstrates strong performance in distinguishing between benign and m
 ### Conclusion
 
 This project showcases the potential of machine learning in assisting with skin cancer diagnosis. The developed model offers a promising tool for early detection, which can aid healthcare professionals in making informed decisions. Future work may include further optimization of the model, experimenting with different architectures, and integrating additional data sources to improve accuracy and robustness.
+
+
+
+## Skin Cancer Detection Project:
+
+- Developed a CNN model to classify skin moles as benign or malignant using a balanced dataset from Kaggle, achieving a test accuracy of 81.82% and an AUC of 89.06%.
+- Implemented data preprocessing by resizing images to 224x224 pixels and normalizing pixel values, enhancing model performance and stability.
+- Utilized training techniques such as dropout, L2 regularization, batch normalization, early stopping, and model checkpointing.
+
